@@ -96,8 +96,8 @@ NSIC
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: Coming Soon
-- 📧 Email: Coming Soon
+- 💼 LinkedIn: [Yashika Gupta](https://linkedin.com/in/yashika-gupta-14597a30a)
+- 📧 Email: [yashikagupta992@gmail.com](mailto:yashikagupta992@gmail.com)
 - 🐙 GitHub: [@yashikagupta2501](https://github.com/yashikagupta2501)
 
 ---
