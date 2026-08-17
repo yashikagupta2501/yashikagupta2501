@@ -1,16 +1,111 @@
-## Hi there 👋
+# 👋 Hi, I'm Yashika Gupta
 
-<!--
-**yashikagupta2501/yashikagupta2501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Data Analyst | Python | SQL | Excel | Data Visualization
 
-Here are some ideas to get you started:
+I'm a BCA graduate and aspiring Data Analyst passionate about transforming data into meaningful business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with data, building analytical projects, creating visualizations, and solving real-world business problems using Python and data analytics tools.
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming & Data
+- Python
+- Pandas
+- NumPy
+- SQL
+- MySQL
+
+### Data Visualization
+- Matplotlib
+- Tableau
+- Excel
+
+### Development Tools
+- Jupyter Notebook
+- VS Code
+- Git & GitHub
+- Streamlit
+
+---
+
+## 🚀 Featured Projects
+
+### 🍫 Nassau Candy Route Efficiency Analysis
+
+Business & logistics analytics project focused on shipment delays and route efficiency.
+
+**Key Analysis:**
+- Factory-wise delay analysis
+- Region-wise delay analysis
+- Shipping-mode performance
+- Product-level delay analysis
+- High-risk route identification
+- Route volume vs lead-time analysis
+- Interactive Streamlit dashboard
+
+**Tools:** Python, Pandas, NumPy, Matplotlib, Streamlit
+
+🔗 [View Project](https://github.com/yashikagupta2501/Nassau-Candy-Route-Efficiency-Analysis)
+
+---
+
+### 🎵 Spotify UK Top 50 Analysis
+
+Data analysis project exploring UK Top 50 music data, including artists, songs, popularity, album information, and track characteristics.
+
+**Tools:** Python, Pandas, NumPy, Jupyter Notebook
+
+🔗 [View Project](https://github.com/yashikagupta2501/spotify_uk_analysis)
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Applications (BCA)**  
+Indira Gandhi National Open University (IGNOU)  
+**Completed**
+
+**Diploma in Advanced Software Technology (DAST)**  
+NSIC
+
+---
+
+## 📈 Skills & Interests
+
+- Data Analysis
+- Business Analytics
+- Data Cleaning & Transformation
+- Exploratory Data Analysis
+- Data Visualization
+- Dashboard Development
+- SQL & Database Management
+- Python Programming
+
+---
+
+## 🔭 Currently Working On
+
+- Building real-world Data Analytics projects
+- Improving SQL and Python skills
+- Creating interactive dashboards
+- Strengthening business analytics knowledge
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: Coming Soon
+- 📧 Email: Coming Soon
+- 🐙 GitHub: [@yashikagupta2501](https://github.com/yashikagupta2501)
+
+---
+
+## 🎯 Career Goal
+
+To build a career in Data Analytics by combining technical skills, business understanding, and data-driven problem solving.
+
+---
+
+⭐ Thanks for visiting my profile!
